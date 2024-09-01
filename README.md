@@ -28,6 +28,10 @@ Easily see the Name of server and IP address of the servers you played on.
 
 **Litecoin** address `ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx`
 
+![githubstamp](https://github.com/user-attachments/assets/bf0c4722-4bf0-476f-93d2-5b258f4ccb6f)
+
+
+
 # ꧁꧂ Want Custom Quick Chats?
 
 [Custom quickchat for PC | Xbox controller version](https://github.com/noarche/RocketLeague-Custom-Quickchat)
